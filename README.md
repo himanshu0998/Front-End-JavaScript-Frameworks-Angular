@@ -1,6 +1,6 @@
-# Confusion
+# Restaurant
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.2.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.2. This is a course Project of the course Front-End JavaScript Framework: Angular available on Coursera.
 
 ## Development server
 
